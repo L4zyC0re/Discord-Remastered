@@ -2145,7 +2145,7 @@ html.theme-dark .sidebar_c48ade .content__99f8c:after {
     text-shadow: 0 0 15px #000000;
 }
 
-.panels_c48ade .buttons__37e49 > * {
+/* .panels_c48ade .buttons__37e49 > * {
     opacity: 0;
     transition: all 0.3s;
 }
@@ -2161,7 +2161,7 @@ html.theme-dark .sidebar_c48ade .content__99f8c:after {
 .buttons__37e49 {
     width: 100%;
     justify-content: space-evenly;
-}
+} */
 
 .container-6sXIoE .alignStretch_abf706.flex_abf706 {
     max-width: 190px;
